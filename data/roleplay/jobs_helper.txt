@@ -1,0 +1,173 @@
+"Vault"
+{
+	"Police Private"
+	{
+		"1"	"This job allows you to cuff / jail people with crime"
+	}
+	"Police Corporal"
+	{
+		"1"	"null"
+	}
+	"Police Sergeant"
+	{
+		"1"	"null"
+	}
+	"Police Lieutenant"
+	{
+		"1"	"null"
+	}
+	"Police Captain"
+	{
+		"1"	"null"
+	}
+	"Police Major"
+	{
+		"1"	"null"
+	}
+	"Police Lt. Colonel"
+	{
+		"1"	"null"
+	}
+	"Police Colonel"
+	{
+		"1"	"null"
+	}
+	"Police Chief"
+	{
+		"1"	"null"
+	}
+	"Police Colonel (ClanOf)"
+	{
+		"1"	"null"
+	}
+	"Police Chief (Dennis)"
+	{
+		"1"	"null"
+	}
+	"SWAT"
+	{
+		"1"	"null"
+	}
+	"SWAT Leader"
+	{
+		"1"	"null"
+	}
+	"General of the Army"
+	{
+		"1"	"null"
+	}
+	"Admin"
+	{
+		"1"	"This job allows you to access all jobs"
+		"2"	"This job has been made purely for developmenut purposes"
+	}
+	"Super Admin"
+	{
+		"1"	"This job allows you to access all jobs"
+		"2"	"This job has been made purely for developmenut purposes"
+	}
+	"Root Admin"
+	{
+		"1"	"This job allows you to access all jobs"
+		"2"	"This job has been made purely for developmenut purposes"
+	}
+	"City Official"
+	{
+		"1"	"null"
+	}
+	"Server Official"
+	{
+		"1"	"null"
+	}
+	"Mayor"
+	{
+		"1"	"null"
+	}
+	"Trader"
+	{
+		"1"	"null"
+	}
+	"Bounty Hunter"
+	{
+		"1"	"This Job allows people to put a Bounty on someone"
+		"2"	"if someone already has a Bounty you can't put another hit on them"
+	}
+	"Bank Administrative Officer"
+	{
+		"1"	"null"
+	}
+	"Drug Lord"
+	{
+		"1"	"This job allows you to grow marijuarna!"
+		"2"	"Before you start growing find a vendor that sells Plant Pot and Drug Seeds."
+		"3"	"Find somewhere to grow and spawn both Plant Pot and Drug Seeds."
+		"4"	"Pickup the Drug Seeds and plant them in the pot to start growing."
+		"5"	"As the Drug Plant is growing, it will consume water."
+		"6"	"the higher grade the seed the more the plant will consume water."
+		"7"	"after the plant has fully grown, press 'e' twice to harvest the plant"
+		"8"	"you will get crime when harvesting plants."
+		"9"	"afterwards find a drug buy/selling vendor to sell your drugs to get money."
+		"10"	"You can increase the amount of harvest you get if you buy a drug plant!"
+		"11"	"Lamps and higher grade seeds will consume alot of water so keep a look out"
+		"12"	"if you leave your plants too long after they have grown they will die!"
+		"13"	"The more you grow the more Experience you will get!"
+	}
+	"Meth Technician"
+	{
+		"1"	"This job allows you to Cook Meth!"
+	}
+	"Pill Technician"
+	{
+		"1"	"null"
+	}
+	"Cocain Technician"
+	{
+		"1"	"null"
+	}
+	"Street Sweaper"
+	{
+		"1"	"This job allows you to collect garbage and recycle it"
+		"2"	"you have to put the garbage inside the trash can in order to recycle it"
+		"3"	"The city will automaticly spawn garbage in the trash can's over time"
+		"4"	"To Recycle trash you need to press 'e' on the trash cans and then press Esc for a menu"
+		"5"	"The more trash you Recycle the more Experience you will recieve!"
+	}
+	"Brain Surgeon"
+	{
+		"1"	"This Job allows you to heal people if they have been hurt"
+		"2"	"To Heal someone who is hurt, press 'e' on them and then press Esc for a menu"
+		"3"	"Afterwards, press your actions and then heal player"
+		"4"	"Each time you heal someone you will reciece Experience!"
+	}
+	"Sales Consultant"
+	{
+		"1"	"null"
+	}
+	"Gun Lord"
+	{
+		"1"	"This Job allows you to sell weapons!"
+		"1"	"People have to buy weapons directly from you in order to recieve Experience"
+	}
+	"Explosive Expert"
+	{
+		"1"	"This Job allows you to Explosives!"
+		"1"	"People have to buy Expolsives directly from you in order to recieve Experience"
+	}
+	"Hacker"
+	{
+		"1"	"This job will replace all robbing features to Hacking."
+		"2"	"You will also be able to hack peoples cash if they hang around long enough"
+	}
+	"Crime Lord"
+	{
+		"1"	"null"
+	}
+	"God Father"
+	{
+		"1"	"null"
+	}
+	"Zombie"
+	{
+		"1"	"kill everything you see!"
+	}
+}

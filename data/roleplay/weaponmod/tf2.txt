@@ -1,0 +1,63 @@
+"Vault"
+{
+
+	//hl2dm weapons:
+	"default_weapon"
+	{
+		"classname"		"weapon_physcannon"
+	}
+	"weapon_repair"
+	{
+		"classname"		"weapon_crowbar"
+	}
+	"weapon_arrest"
+	{
+		"classname"		"weapon_stunstick"
+	}
+
+	//CPlayer Offsets:
+	"1"
+	{
+		"CPlayer"		"CHL2MP_Player"
+	}
+
+	"2"
+	{
+		"CPlayer"		"CCSSPlayer"
+	}
+
+	"3"
+	{
+		"CPlayer"		"CCSGOPlayer"
+	}
+
+	"4"
+	{
+		"CPlayer"		"CTFPlayer"
+	}
+
+	"5"
+	{
+		"CPlayer"		"CTFPlayer"
+	}
+
+	"6"
+	{
+		"CPlayer"		"CTerrorPlayer"
+	}
+
+	"7"
+	{
+		"CPlayer"		"CTerrorPlayer"
+	}
+
+	//TF2 Weapons:
+	"weapon_"
+	{
+		"model"		""
+		"ItemId"	""
+		"SpawnAmmo"	""
+		"MaxAmmo"	""
+		"CustomGuns"	"0"
+	}
+}

@@ -1,0 +1,356 @@
+"Vault"
+{
+	"Police Private"
+	{
+		"model"			"models/humans/private/male_06.mdl"
+		"suit"			"10"
+		"health"		"110"
+		"color"			"{blue}"
+	}
+	"Police Corporal"
+	{
+		"model"			"models/humans/corporal/male_06.mdl"
+		"suit"			"20"
+		"health"		"120"
+		"color"			"{blue}"
+		"0"				"weapon_pistol"
+		"1"				"weapon_alyxgun"
+		"2"				"weapon_smg1"
+	}
+	"Police Sergeant"
+	{
+		"model"			"models/humans/sergeant/male_06.mdl"
+		"suit"			"40"
+		"health"		"130"
+		"color"			"{blue}"
+		"0"				"weapon_pistol"
+		"1"	"weapon_alyxgun"
+		"2"	"weapon_smg1"
+		"3"	"weapon_ak47"
+	}
+	"Police Lieutenant"
+	{
+		"model"	"models/humans/lieutenant/male_06.mdl"
+		"suit"	"60"
+		"health"	"140"
+		"color"		"{blue}"
+		"0"	"weapon_pistol"
+		"1"	"weapon_alyxgun"
+		"2"	"weapon_smg1"
+		"3"	"weapon_ak47"
+		"4"	"weapon_shotgun"
+	}
+	"Police Captain"
+	{
+		"model"	"models/humans/captain/male_06.mdl"
+		"suit"	"80"
+		"health"	"150"
+		"color"		"{blue}"
+		"0"	"weapon_pistol"
+		"1"	"weapon_alyxgun"
+		"2"	"weapon_smg1"
+		"3"	"weapon_ak47"
+		"4"	"weapon_shotgun"
+	}
+	"Police Major"
+	{
+		"model"	"models/humans/major/male_06.mdl"
+		"suit"	"100"
+		"health"	"160"
+		"color"		"{blue}"
+		"0"	"weapon_pistol"
+		"1"	"weapon_alyxgun"
+		"2"	"weapon_smg1"
+		"3"	"weapon_ak47"
+		"4"	"weapon_shotgun"
+		"5"	"weapon_crowbar"
+		"6"	"weapon_frag"
+		"7"	"weapon_357"
+	}
+	"Police Lt. Colonel"
+	{
+		"model"	"models/humans/lieutenantcolonel/male_06.mdl"
+		"suit"	"120"
+		"health"	"170"
+		"color"		"{blue}"
+		"0"	"weapon_pistol"
+		"1"	"weapon_alyxgun"
+		"2"	"weapon_smg1"
+		"3"	"weapon_ak47"
+		"4"	"weapon_shotgun"
+		"5"	"weapon_crowbar"
+		"6"	"weapon_frag"
+		"7"	"weapon_357"
+	}
+	"Police Chief"
+	{
+		"model"	"models/humans/chief/male_06.mdl"
+		"suit"	"150"
+		"health"	"190"
+		"color"		"{blue}"
+		"0"	"weapon_pistol"
+		"1"	"weapon_alyxgun"
+		"2"	"weapon_smg1"
+		"3"	"weapon_ak47"
+		"4"	"weapon_shotgun"
+		"5"	"weapon_frag"
+		"6"	"weapon_357"
+		"7"	"weapon_crowbar"
+		"8"	"weapon_grenadelauncher"
+	}
+	"SWAT"
+	{
+		"model"	"models/combine_super_soldier.mdl"
+		"suit"	"180"
+		"health"	"210"
+		"color"		"{white}"
+		"0"	"weapon_smg1"
+		"1"	"weapon_shotgun"
+		"2"	"weapon_frag"
+		"3"	"weapon_357"
+		"4"	"weapon_crowbar"
+		"5"	"weapon_slam"
+		"6"	"weapon_crossbow"
+		"7"	"weapon_ar2"
+		"8"	"weapon_rpg"
+		"10"	"weapon_grenadelauncher"
+		"11"	"weapon_ak47"
+		"19"	"weapon_alyxgun"
+	}
+	"SWAT Leader"
+	{
+		"model"			"models/combine_super_soldier.mdl"
+		"suit"			"250"
+		"health"		"250"
+		"color"			"{white}"
+		"0"			"weapon_smg1"
+		"1"			"weapon_shotgun"
+		"2"			"weapon_frag"
+		"3"			"weapon_357"
+		"4"			"weapon_crowbar"
+		"5"			"weapon_slam"
+		"6"			"weapon_crossbow"
+		"7"			"weapon_ar2"
+		"8"			"weapon_rpg"
+		"9"			"weapon_pistol"
+		"10"			"weapon_grenadelauncher"
+		"11"			"weapon_ak47"
+		"19"			"weapon_alyxgun"
+	}
+	"Admin"
+	{
+		"model"				"models/gman.mdl"
+		"suit"			"200"
+		"health"		"250"
+		"color"			"{red}"
+		"0"			"weapon_smg1"
+		"1"			"weapon_shotgun"
+		"2"			"weapon_frag"
+		"3"			"weapon_357"
+		"4"			"weapon_crowbar"
+		"5"			"weapon_slam"
+		"6"			"weapon_crossbow"
+		"7"			"weapon_ar2"
+		"8"			"weapon_rpg"
+		"9"			"weapon_stunstick"
+		"10"			"weapon_bugbait"
+		"11"			"weapon_pistol"
+		"12"			"weapon_grenadelauncher"
+	}
+	"Super Admin"
+	{
+		"model"			"models/gman.mdl"
+		"suit"			"250"
+		"health"		"350"
+		"color"			"{red}"
+		"0"			"weapon_smg1"
+		"1"			"weapon_shotgun"
+		"2"			"weapon_frag"
+		"3"			"weapon_357"
+		"4"			"weapon_crowbar"
+		"5"			"weapon_slam"
+		"6"			"weapon_crossbow"
+		"7"			"weapon_ar2"
+		"8"			"weapon_rpg"
+		"9"			"weapon_stunstick"
+		"10"			"weapon_bugbait"
+		"11"			"weapon_pistol"
+		"12"			"weapon_grenadelauncher"
+	}
+	"Root Admin"
+	{
+		"model"			"models/gman.mdl"
+		"suit"			"300"
+		"health"		"400"
+		"color"			"{red}"
+		"0"			"weapon_smg1"
+		"1"			"weapon_shotgun"
+		"2"			"weapon_frag"
+		"3"			"weapon_357"
+		"4"			"weapon_crowbar"
+		"5"			"weapon_slam"
+		"6"			"weapon_crossbow"
+		"7"			"weapon_ar2"
+		"8"			"weapon_rpg"
+		"9"			"weapon_stunstick"
+		"10"			"weapon_bugbait"
+		"11"			"weapon_pistol"
+		"12"			"weapon_plasmagun"
+		"13"			"weapon_superplasmagun"
+		"14"			"weapon_laser"
+		"15"			"weapon_gauss"
+		"16"			"weapon_grenadelauncher"
+		"17"			"weapon_golden357"
+		"18"			"weapon_goldenstock357"
+		"19"			"weapon_alyxgun"
+	}
+	"City Official"
+	{
+		"model"			"models/Breen.mdl"
+		"color"			"{royalblue}"
+	}
+	"Server Official"
+	{
+		"model"			"models/Breen.mdl"
+		"color"			"{royalblue}"
+		"suit"			"0"
+		"health"		"100"
+	}
+	"Mayor"
+	{
+		"model"			"models/Breen.mdl"
+		"color"			"{royalblue}"
+		"suit"			"0"
+		"health"		"100"
+	}
+	"Trader"
+	{
+		"model"			"models/Barney.mdl"
+		"color"			"{lightcyan}"
+		"suit"			"0"
+		"health"		"100"
+	}
+	"Explosive Expert"
+	{
+		"model"			"models/Barney.mdl"
+		"color"			"{red}"
+		"suit"			"0"
+		"health"		"100"
+	}
+	"Bounty Hunter"
+	{
+		"model"			"models/Barney.mdl"
+		"color"			"{orange}"
+		"suit"			"0"
+		"health"		"100"
+	}
+	"Bank Administrative Officer"
+	{
+		"model"			"models/gman.mdl"
+		"color"			"{whitesmoke}"
+		"suit"			"0"
+		"health"		"100"
+	}
+	"Drug Lord"
+	{
+		"model"			"models/monk.mdl"
+		"color"			"{limegreen}"
+		"suit"			"0"
+		"health"		"100"
+	}
+	"Gun Lord"
+	{
+		"model"			"models/monk.mdl"
+		"color"			"{limegreen}"
+		"suit"			"0"
+		"health"		"100"
+	}
+	"Meth Technician"
+	{
+		"model"			"models/kleiner.mdl"
+		"color"			"{limegreen}"
+		"suit"			"0"
+		"health"		"100"
+	}
+	"Pill Technician"
+	{
+		"model"			"models/kleiner.mdl"
+		"color"			"{limegreen}"
+		"suit"			"0"
+		"health"		"100"
+	}
+	"Cocain Technician"
+	{
+		"model"			"models/kleiner.mdl"
+		"color"			"{limegreen}"
+		"suit"			"0"
+		"health"		"100"
+	}
+	"Crime Lord"
+	{
+		"model"			"models/monk.mdl"
+		"color"			"{green}"
+		"suit"			"0"
+		"health"		"150"
+	}
+	"God Father"
+	{
+		"model"			"models/monk.mdl"
+		"color"			"{green}"
+		"suit"			"0"
+		"health"		"200"
+	}
+	"Hacker"
+	{
+		"model"			"models/kleiner.mdl"
+		"color"			"{royalblue}"
+		"suit"			"0"
+		"health"		"100"
+	}
+	"Master Chef"
+	{
+		"model"			"models/mossman.mdl"
+		"color"			"{lightcyan}"
+		"suit"			"0"
+		"health"		"100"
+	}
+	"Sales Consultant"
+	{
+		"model"			"models/mossman.mdl"
+		"color"			"{lightcyan}"
+		"suit"			"0"
+		"health"		"100"
+	}
+	"Drinks Sales Director"
+	{
+		"model"			"models/monk.mdl"
+		"color"			"{lightcyan}"
+		"suit"			"0"
+		"health"		"100"
+	}
+	"Street Sweeper"
+	{
+		"color"			"{red}"
+		"suit"			"0"
+		"health"		"100"
+	}
+	"Brain Surgeon"
+	{
+		"color"			"{darkblue}"
+		"suit"			"0"
+		"health"		"100"
+	}
+	"Citizen"
+	{
+		"color"			"{red}"
+		"suit"			"0"
+		"health"		"100"
+	}
+	"Zombie"
+	{
+		"model"			"models/zombie/classic.mdl"
+		"color"			"{olive}"
+		"suit"			"0"
+		"health"		"300"
+	}
+}

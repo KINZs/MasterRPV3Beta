@@ -1,0 +1,467 @@
+"Vault"
+{
+
+	//hl2dm weapons:
+	"default_weapon"
+	{
+		"classname"		"weapon_physcannon"
+	}
+	"weapon_repair"
+	{
+		"classname"		"weapon_crowbar"
+	}
+	"weapon_arrest"
+	{
+		"classname"		"weapon_stunstick"
+	}
+
+	//CPlayer Offsets:
+	"1"
+	{
+		"CPlayer"		"CHL2MP_Player"
+	}
+
+	"2"
+	{
+		"CPlayer"		"CCSSPlayer"
+	}
+
+	"3"
+	{
+		"CPlayer"		"CCSGOPlayer"
+	}
+
+	"4"
+	{
+		"CPlayer"		"CTFPlayer"
+	}
+
+	"5"
+	{
+		"CPlayer"		"CTFPlayer"
+	}
+
+	"6"
+	{
+		"CPlayer"		"CTerrorPlayer"
+	}
+
+	"7"
+	{
+		"CPlayer"		"CTerrorPlayer"
+	}
+
+	//Css Weapons
+	"weapon_glock"
+	{
+		"model"		"models/weapons/w_pist_glock18.mdl"
+		"ItemId"	"333"
+		"SpawnAmmo"	"150"
+		"MaxAmmo"	"200"
+		"CustomGuns"	"0"
+	}
+	"weapon_usp"
+	{
+		"model"		"models/weapons/w_pist_usp.mdl"
+		"ItemId"	"334"
+		"SpawnAmmo"	"150"
+		"MaxAmmo"	"200"
+		"CustomGuns"	"0"
+	}
+	"weapon_p228"
+	{
+		"model"		"models/weapons/w_pist_p228.mdl"
+		"ItemId"	"335"
+		"SpawnAmmo"	"150"
+		"MaxAmmo"	"200"
+		"CustomGuns"	"0"
+	}
+	"weapon_deagle"
+	{
+		"model"		"models/weapons/w_pist_deagle.mdl"
+		"ItemId"	"336"
+		"SpawnAmmo"	"50"
+		"MaxAmmo"	"75"
+		"CustomGuns"	"0"
+	}
+	"weapon_elite"
+	{
+		"model"		"models/weapons/w_pist_elite_single.mdl"
+		"ItemId"	"337"
+		"SpawnAmmo"	"40"
+		"MaxAmmo"	"70"
+		"CustomGuns"	"0"
+	}
+	"weapon_fiveseven"
+	{
+		"model"		"models/weapons/w_pist_fiveseven.mdl"
+		"ItemId"	"338"
+		"SpawnAmmo"	"200"
+		"MaxAmmo"	"300"
+		"CustomGuns"	"0"
+	}
+	"weapon_m3"
+	{
+		"model"		"models/weapons/w_shot_m3super90.mdl"
+		"ItemId"	"339"
+		"SpawnAmmo"	"240"
+		"MaxAmmo"	"360"
+		"CustomGuns"	"0"
+	}
+	"weapon_xm1014"
+	{
+		"model"		"models/weapons/w_shot_xm1014.mdl"
+		"ItemId"	"340"
+		"SpawnAmmo"	"240"
+		"MaxAmmo"	"360"
+		"CustomGuns"	"0"
+	}
+	"weapon_galil"
+	{
+		"model"		"models/weapons/w_rif_galil.mdl"
+		"ItemId"	"341"
+		"SpawnAmmo"	"240"
+		"MaxAmmo"	"360"
+		"CustomGuns"	"0"
+	}
+	"weapon_ak47"
+	{
+		"model"		"models/weapons/w_rif_ak47.mdl"
+		"ItemId"	"342"
+		"SpawnAmmo"	"240"
+		"MaxAmmo"	"360"
+		"CustomGuns"	"0"
+	}
+	"weapon_scout"
+	{
+		"model"		"models/weapons/w_snip_scout.mdl"
+		"ItemId"	"343"
+		"SpawnAmmo"	"240"
+		"MaxAmmo"	"360"
+		"CustomGuns"	"0"
+	}
+	"weapon_sg552"
+	{
+		"model"		"models/weapons/w_snip_sg550.mdl"
+		"ItemId"	"344"
+		"SpawnAmmo"	"240"
+		"MaxAmmo"	"360"
+		"CustomGuns"	"0"
+	}
+	"weapon_awp"
+	{
+		"model"		"models/weapons/w_snip_awp.mdl"
+		"ItemId"	"345"
+		"SpawnAmmo"	"240"
+		"MaxAmmo"	"360"
+		"CustomGuns"	"0"
+	}
+	"weapon_g3sg1"
+	{
+		"model"		"models/weapons/w_snip_g3sg1.mdl"
+		"ItemId"	"346"
+		"SpawnAmmo"	"240"
+		"MaxAmmo"	"360"
+		"CustomGuns"	"0"
+	}
+	"weapon_famas"
+	{
+		"model"		"models/weapons/w_rif_famas.mdl"
+		"ItemId"	"347"
+		"SpawnAmmo"	"240"
+		"MaxAmmo"	"360"
+		"CustomGuns"	"0"
+	}
+	"weapon_m4a1"
+	{
+		"model"		"models/weapons/w_rif_m4a1.mdl"
+		"ItemId"	"348"
+		"SpawnAmmo"	"240"
+		"MaxAmmo"	"360"
+		"CustomGuns"	"0"
+	}
+	"weapon_aug"
+	{
+		"model"		"models/weapons/w_rif_aug.mdl"
+		"ItemId"	"349"
+		"SpawnAmmo"	"240"
+		"MaxAmmo"	"360"
+		"CustomGuns"	"0"
+	}
+	"weapon_sg550"
+	{
+		"model"		"models/weapons/w_snip_sg550.mdl"
+		"ItemId"	"350"
+		"SpawnAmmo"	"240"
+		"MaxAmmo"	"360"
+		"CustomGuns"	"0"
+	}
+	"weapon_mac10"
+	{
+		"model"		"models/weapons/w_smg_mac10.mdl"
+		"ItemId"	"351"
+		"SpawnAmmo"	"240"
+		"MaxAmmo"	"360"
+		"CustomGuns"	"0"
+	}
+	"weapon_tmp"
+	{
+		"model"		"models/weapons/w_smg_tmp.mdl"
+		"ItemId"	"352"
+		"SpawnAmmo"	"240"
+		"MaxAmmo"	"360"
+		"CustomGuns"	"0"
+	}
+	"weapon_mp5navy"
+	{
+		"model"		"models/weapons/w_smg_mp5.mdl"
+		"ItemId"	"353"
+		"SpawnAmmo"	"240"
+		"MaxAmmo"	"360"
+		"CustomGuns"	"0"
+	}
+	"weapon_ump45"
+	{
+		"model"		"models/weapons/w_smg_ump45.mdl"
+		"ItemId"	"354"
+		"SpawnAmmo"	"240"
+		"MaxAmmo"	"360"
+		"CustomGuns"	"0"
+	}
+	"weapon_p90"
+	{
+		"model"		"models/weapons/w_smg_p90.mdl"
+		"ItemId"	"355"
+		"SpawnAmmo"	"240"
+		"MaxAmmo"	"360"
+		"CustomGuns"	"0"
+	}
+	"weapon_m249"
+	{
+		"model"		"models/weapons/w_mach_m249para.mdl"
+		"ItemId"	"356"
+		"SpawnAmmo"	"240"
+		"MaxAmmo"	"360"
+		"CustomGuns"	"0"
+	}
+	"weapon_flashbang"
+	{
+		"model"		"models/weapons/w_eq_flashbang_thrown.mdl"
+		"ItemId"	"357"
+		"SpawnAmmo"	"5"
+		"MaxAmmo"	"10"
+		"CustomGuns"	"0"
+	}
+	"weapon_hegrenade"
+	{
+		"model"		"models/weapons/w_eq_fraggrenade_thrown.mdl"
+		"ItemId"	"358"
+		"SpawnAmmo"	"5"
+		"MaxAmmo"	"10"
+		"CustomGuns"	"0"
+	}
+	"weapon_smokegrenade"
+	{
+		"model"		"models/weapons/w_eq_smokegrenade_thrown.mdl"
+		"ItemId"	"359"
+		"SpawnAmmo"	"5"
+		"MaxAmmo"	"10"
+		"CustomGuns"	"0"
+	}
+	"weapon_c4"
+	{
+		"model"		"models/weapons/w_c4.mdl"
+		"ItemId"	"360"
+		"SpawnAmmo"	"5"
+		"MaxAmmo"	"10"
+		"CustomGuns"	"0"
+	}
+	"weapon_defuser"
+	{
+		"model"		"models/weapons/w_defuser.mdl"
+		"ItemId"	"361"
+		"SpawnAmmo"	"5"
+		"MaxAmmo"	"10"
+		"CustomGuns"	"0"
+	}
+
+	//csgo weapons:
+	"weapon_cz_75"
+	{
+		"model"		"models/weapons/w_pist_cz_75.mdl"
+		"ItemId"	"362"
+		"SpawnAmmo"	"240"
+		"MaxAmmo"	"360"
+		"CustomGuns"	"0"
+	}
+	"weapon_hkp2000"
+	{
+		"model"		"models/weapons/w_pist_hkp2000.mdl"
+		"ItemId"	"363"
+		"SpawnAmmo"	"240"
+		"MaxAmmo"	"360"
+		"CustomGuns"	"0"
+	}
+	"weapon_p250"
+	{
+		"model"		"models/weapons/w_pist_p250.mdl"
+		"ItemId"	"364"
+		"SpawnAmmo"	"240"
+		"MaxAmmo"	"360"
+		"CustomGuns"	"0"
+	}
+	"weapon_tec9"
+	{
+		"model"		"models/weapons/w_pist_tec9.mdl"
+		"ItemId"	"365"
+		"SpawnAmmo"	"240"
+		"MaxAmmo"	"360"
+		"CustomGuns"	"0"
+	}
+	"weapon_mag7"
+	{
+		"model"		"models/weapons/w_shot_mag7.mdl"
+		"ItemId"	"366"
+		"SpawnAmmo"	"240"
+		"MaxAmmo"	"360"
+		"CustomGuns"	"0"
+	}
+	"weapon_nova"
+	{
+		"model"		"models/weapons/w_shot_nova.mdl"
+		"ItemId"	"410"
+		"SpawnAmmo"	"30"
+		"MaxAmmo"	"60"
+		"CustomGuns"	"0"
+	}
+	"weapon_sawedoff"
+	{
+		"model"		"models/weapons/w_shot_sawedoff.mdl"
+		"ItemId"	"367"
+		"SpawnAmmo"	"30"
+		"MaxAmmo"	"60"
+		"CustomGuns"	"0"
+	}
+	"weapon_galilar"
+	{
+		"model"		"models/weapons/w_rif_galilar.mdl"
+		"ItemId"	"368"
+		"SpawnAmmo"	"240"
+		"MaxAmmo"	"360"
+		"CustomGuns"	"0"
+	}
+	"weapon_sg556"
+	{
+		"model"		"models/weapons/w_rif_ssg556.mdl"
+		"ItemId"	"369"
+		"SpawnAmmo"	"240"
+		"MaxAmmo"	"360"
+		"CustomGuns"	"0"
+	}
+	"weapon_bizon"
+	{
+		"model"		"models/weapons/w_smg_bizon.mdl"
+		"ItemId"	"370"
+		"SpawnAmmo"	"240"
+		"MaxAmmo"	"360"
+		"CustomGuns"	"0"
+	}
+	"weapon_mp7"
+	{
+		"model"		"models/weapons/w_smg_mp7.mdl"
+		"ItemId"	"371"
+		"SpawnAmmo"	"240"
+		"MaxAmmo"	"360"
+		"CustomGuns"	"0"
+	}
+	"weapon_mp9"
+	{
+		"model"		"models/weapons/w_smg_mp9.mdl"
+		"ItemId"	"372"
+		"SpawnAmmo"	"240"
+		"MaxAmmo"	"360"
+		"CustomGuns"	"0"
+	}
+	"weapon_scar20"
+	{
+		"model"		"models/weapons/w_snip_scar20.mdl"
+		"ItemId"	"411"
+		"SpawnAmmo"	"240"
+		"MaxAmmo"	"360"
+		"CustomGuns"	"0"
+	}
+	"weapon_ssg08"
+	{
+		"model"		"models/weapons/w_snip_ssg08.mdl"
+		"ItemId"	"373"
+		"SpawnAmmo"	"240"
+		"MaxAmmo"	"360"
+		"CustomGuns"	"0"
+	}
+	"weapon_m249"
+	{
+		"model"		"models/weapons/w_mach_m249para.mdl"
+		"ItemId"	"374"
+		"SpawnAmmo"	"240"
+		"MaxAmmo"	"360"
+		"CustomGuns"	"0"
+	}
+	"weapon_incgrenade"
+	{
+		"model"		"models/weapons/w_eq_incendiarygrenade_thrown.mdl"
+		"ItemId"	"375"
+		"SpawnAmmo"	"5"
+		"MaxAmmo"	"10"
+		"CustomGuns"	"0"
+	}
+	"weapon_molotov"
+	{
+		"model"		"models/weapons/w_eq_molotov_thrown.mdl"
+		"ItemId"	"376"
+		"SpawnAmmo"	"5"
+		"MaxAmmo"	"10"
+		"CustomGuns"	"0"
+	}
+	"weapon_teser"
+	{
+		"model"		"models/weapons/w_ep_teser.mdl"
+		"ItemId"	"377"
+		"SpawnAmmo"	"120"
+		"MaxAmmo"	"240"
+		"CustomGuns"	"0"
+	}
+	"weapon_ied"
+	{
+		"model"		"models/weapons/w_ied.mdl"
+		"ItemId"	"378"
+		"SpawnAmmo"	"5"
+		"MaxAmmo"	"10"
+		"CustomGuns"	"0"
+	}
+	"weapon_nova"
+	{
+		"model"		"models/weapons/w_shot_nova.mdl"
+		"ItemId"	"410"
+		"SpawnAmmo"	"30"
+		"MaxAmmo"	"60"
+		"CustomGuns"	"0"
+	}
+	"weapon_ssg08"
+	{
+		"model"		"models/weapons/w_snip_ssg08.mdl"
+		"ItemId"	"411"
+		"SpawnAmmo"	"240"
+		"MaxAmmo"	"360"
+		"CustomGuns"	"0"
+	}
+
+
+	//TF2 Weapons:
+	"weapon_"
+	{
+		"model"		""
+		"ItemId"	""
+		"SpawnAmmo"	""
+		"MaxAmmo"	""
+	}
+}

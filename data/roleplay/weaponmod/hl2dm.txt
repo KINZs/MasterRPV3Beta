@@ -1,0 +1,582 @@
+"Vault"
+{
+
+	//hl2dm weapons:
+	"default_weapon"
+	{
+		"classname"		"weapon_physcannon"
+	}
+	"weapon_repair"
+	{
+		"classname"		"weapon_crowbar"
+	}
+	"weapon_arrest"
+	{
+		"classname"		"weapon_stunstick"
+	}
+
+	//CPlayer Offsets:
+	"1"
+	{
+		"CPlayer"		"CHL2MP_Player"
+	}
+
+	"2"
+	{
+		"CPlayer"		"CCSSPlayer"
+	}
+
+	"3"
+	{
+		"CPlayer"		"CCSGOPlayer"
+	}
+
+	"4"
+	{
+		"CPlayer"		"CTFPlayer"
+	}
+
+	"5"
+	{
+		"CPlayer"		"CTFPlayer"
+	}
+
+	"6"
+	{
+		"CPlayer"		"CTerrorPlayer"
+	}
+
+	"7"
+	{
+		"CPlayer"		"CTerrorPlayer"
+	}
+
+	//hl2dm weapons:
+	"weapon_pistol"
+	{
+		"model"		"models/weapons/w_pistol.mdl"
+		"ItemId"	"6"
+		"MaxClip1"	"18"
+		"MaxClip2"	"0"
+		"SpawnAmmo"	"150"
+		"MaxAmmo"	"250"
+		"CustomGuns"	"0"
+	}
+	"weapon_crowbar"
+	{
+		"model"		"models/weapons/w_crowbar.mdl"
+		"ItemId"	"4"
+		"MaxClip1"	"0"
+		"MaxClip2"	"0"
+		"SpawnAmmo"	"0"
+		"MaxAmmo"	"0"
+		"CustomGuns"	"0"
+	}
+	"weapon_stunstick"
+	{
+		"model"		"models/weapons/w_stunbaton.mdl"
+		"ItemId"	"9"
+		"MaxClip1"	"0"
+		"MaxClip2"	"0"
+		"SpawnAmmo"	"0"
+		"MaxAmmo"	"0"
+		"CustomGuns"	"0"
+	}
+	"weapon_frag"
+	{
+		"model"		"models/weapons/w_grenade.mdl"
+		"ItemId"	"5"
+		"MaxClip1"	"5"
+		"MaxClip2"	"5"
+		"SpawnAmmo"	"5"
+		"MaxAmmo"	"10"
+		"CustomGuns"	"0"
+	}
+	"weapon_smg1"
+	{
+		"model"		"models/weapons/w_smg1.mdl"
+		"ItemId"	"11"
+		"MaxClip1"	"45"
+		"MaxClip2"	"3"
+		"SpawnAmmo"	"200"
+		"MaxAmmo"	"500"
+		"CustomGuns"	"0"
+	}
+	"weapon_shotgun"
+	{
+		"model"		"models/weapons/w_shotgun.mdl"
+		"ItemId"	"8"
+		"MaxClip1"	"6"
+		"MaxClip2"	"0"
+		"SpawnAmmo"	"30"
+		"MaxAmmo"	"50"
+		"CustomGuns"	"0"
+	}
+	"weapon_crossbow"
+	{
+		"model"		"models/weapons/w_crossbow.mdl"
+		"ItemId"	"3"
+		"MaxClip1"	"1"
+		"MaxClip2"	"0"
+		"SpawnAmmo"	"10"
+		"MaxAmmo"	"10"
+		"CustomGuns"	"0"
+	}
+	"weapon_rpg"
+	{
+		"model"		"models/weapons/w_rocket_launcher.mdl"
+		"ItemId"	"7"
+		"MaxClip1"	"1"
+		"MaxClip2"	"0"
+		"SpawnAmmo"	"5"
+		"MaxAmmo"	"10"
+		"CustomGuns"	"0"
+	}
+	"weapon_ar2"
+	{
+		"model"		"models/weapons/w_irifle.mdl"
+		"ItemId"	"2"
+		"MaxClip1"	"30"
+		"MaxClip2"	"3"
+		"SpawnAmmo"	"120"
+		"MaxAmmo"	"240"
+		"CustomGuns"	"0"
+	}
+	"weapon_357"
+	{
+		"model"		"models/weapons/w_357.mdl"
+		"ItemId"	"1"
+		"MaxClip1"	"6"
+		"MaxClip2"	"0"
+		"SpawnAmmo"	"24"
+		"MaxAmmo"	"48"
+		"CustomGuns"	"0"
+	}
+	"weapon_slam"
+	{
+		"model"		"null"
+		"ItemId"	"10"
+		"MaxClip1"	"0"
+		"MaxClip2"	"0"
+		"SpawnAmmo"	"5"
+		"MaxAmmo"	"10"
+		"CustomGuns"	"0"
+	}
+
+	//Custom Guns hl2dm
+	"weapon_annabelle"
+	{
+		"model"		"models/weapons/w_annabelle.mdl"
+		"ItemId"	"432"
+		"MaxClip1"	"1"
+		"MaxClip2"	"0"
+		"SpawnAmmo"	"150"
+		"MaxAmmo"	"200"
+		"CustomGuns"	"1"
+	}
+	"weapon_alyxgun"
+	{
+		"model"		"models/weapons/w_alyx_gun.mdl"
+		"ItemId"	"431"
+		"MaxClip1"	"24"
+		"MaxClip2"	"0"
+		"SpawnAmmo"	"150"
+		"MaxAmmo"	"200"
+		"CustomGuns"	"1"
+	}
+	"weapon_ak47"
+	{
+		"model"		"models/weapons/w_rif_ak47.mdl"
+		"ItemId"	"342"
+		"MaxClip1"	"30"
+		"MaxClip2"	"0"
+		"SpawnAmmo"	"240"
+		"MaxAmmo"	"360"
+		"CustomGuns"	"1"
+	}
+	"weapon_anm14"
+	{
+		"model"		"models/weapons/w_anm14.mdl"
+		"ItemId"	"450"
+		"MaxClip1"	"5"
+		"MaxClip2"	"0"
+		"SpawnAmmo"	"5"
+		"MaxAmmo"	"10"
+		"CustomGuns"	"1"
+	}
+	"weapon_fists"
+	{
+		"model"		"null"
+		"ItemId"	"449"
+		"MaxClip1"	"0"
+		"MaxClip2"	"0"
+		"SpawnAmmo"	"0"
+		"MaxAmmo"	"0"
+		"CustomGuns"	"1"
+	}
+	"weapon_gauss"
+	{
+		"model"		"models/weapons/w_gauss_suit.mdl"
+		"ItemId"	"433"
+		"MaxClip1"	"255"
+		"MaxClip2"	"0"
+		"SpawnAmmo"	"225"
+		"MaxAmmo"	"225"
+		"CustomGuns"	"1"
+	}
+	"weapon_gauss_old"
+	{
+		"model"		"models/weapons/w_gauss.mdl"
+		"ItemId"	""
+		"MaxClip1"	"255"
+		"MaxClip2"	"0"
+		"SpawnAmmo"	"225"
+		"MaxAmmo"	"225"
+		"CustomGuns"	"1"
+	}
+	"weapon_golden357"
+	{
+		"model"		"models/weapons/wg357.mdl"
+		"ItemId"	"434"
+		"MaxClip1"	"6"
+		"MaxClip2"	"0"
+		"SpawnAmmo"	"30"
+		"MaxAmmo"	"60"
+		"CustomGuns"	"1"
+	}
+	"weapon_goldenstick"
+	{
+		"model"		"models/weapons/w_godronstick.mdl"
+		"ItemId"	"435"
+		"MaxClip1"	"0"
+		"MaxClip2"	"0"
+		"SpawnAmmo"	"0"
+		"MaxAmmo"	"0"
+		"CustomGuns"	"1"
+	}
+	"weapon_grabber"
+	{
+		"model"		"null"
+		"ItemId"	"436"
+		"MaxClip1"	"0"
+		"MaxClip2"	"0"
+		"SpawnAmmo"	"0"
+		"MaxAmmo"	"0"
+		"CustomGuns"	"1"
+	}
+	"weapon_grenadelauncher"
+	{
+		"model"		"models/weapons/w_a35.mdl"
+		"ItemId"	"437"
+		"MaxClip1"	"6"
+		"MaxClip2"	"0"
+		"SpawnAmmo"	"20"
+		"MaxAmmo"	"35"
+		"CustomGuns"	"1"
+	}
+	"weapon_hands"
+	{
+		"model"		"null"
+		"ItemId"	"438"
+		"MaxClip1"	"0"
+		"MaxClip2"	"0"
+		"SpawnAmmo"	"0"
+		"MaxAmmo"	"0"
+		"CustomGuns"	"1"
+	}
+	"weapon_healer"
+	{
+		"model"		"models/items/healthkit.mdl"
+		"ItemId"	"439"
+		"MaxClip1"	"0"
+		"MaxClip2"	"0"
+		"SpawnAmmo"	"6"
+		"MaxAmmo"	"10"
+		"CustomGuns"	"1"
+	}
+	"weapon_laser"
+	{
+		"model"		"models/weapons/w_Laser.mdl"
+		"ItemId"	"440"
+		"MaxClip1"	"6"
+		"MaxClip2"	"0"
+		"SpawnAmmo"	"30"
+		"MaxAmmo"	"50"
+		"CustomGuns"	"1"
+	}
+	"weapon_m4a1_silenced"
+	{
+		"model"		"models/weapons/w_m4a1.mdl"
+		"ItemId"	"348"
+		"MaxClip1"	"200"
+		"MaxClip2"	"0"
+		"SpawnAmmo"	"200"
+		"MaxAmmo"	"400"
+		"CustomGuns"	"1"
+	}
+	"weapon_minigun"
+	{
+		"model"		"models/weapons/w_minigun.mdl"
+		"ItemId"	"441"
+		"MaxClip1"	"200"
+		"MaxClip2"	"0"
+		"SpawnAmmo"	"200"
+		"MaxAmmo"	"400"
+		"CustomGuns"	"1"
+	}
+	"weapon_mp5"
+	{
+		"model"		"models/weapons/w_mp5.mdl"
+		"ItemId"	""
+		"MaxClip1"	"45"
+		"MaxClip2"	"0"
+		"SpawnAmmo"	"200"
+		"MaxAmmo"	"400"
+		"CustomGuns"	"1"
+	}
+	"weapon_molatov"
+	{
+		"model"		"models/weapons/w_molatov.mdl"
+		"ItemId"	"442"
+		"MaxClip1"	"0"
+		"MaxClip2"	"0"
+		"SpawnAmmo"	"5"
+		"MaxAmmo"	"10"
+		"CustomGuns"	"1"
+	}
+	"weapon_oicw"
+	{
+		"model"		"models/weapons/w_oicw.mdl"
+		"ItemId"	"443"
+		"MaxClip1"	"30"
+		"MaxClip2"	"0"
+		"SpawnAmmo"	"150"
+		"MaxAmmo"	"210"
+		"CustomGuns"	"1"
+	}
+	"weapon_plasmagun"
+	{
+		"model"		"models/weapons/w_ion.mdl"
+		"ItemId"	"444"
+		"MaxClip1"	"50"
+		"MaxClip2"	"0"
+		"SpawnAmmo"	"0"
+		"MaxAmmo"	"0"
+		"CustomGuns"	"1"
+	}
+	"weapon_pulsemg"
+	{
+		"model"		"models/weapons/w_pulsemg.mdl"
+		"ItemId"	"445"
+		"MaxClip1"	"30"
+		"MaxClip2"	"0"
+		"SpawnAmmo"	"90"
+		"MaxAmmo"	"180"
+		"CustomGuns"	"1"
+	}
+	"weapon_shovel"
+	{
+		"model"		"models/weapons/w_shovel.mdl"
+		"ItemId"	"446"
+		"MaxClip1"	"0"
+		"MaxClip2"	"0"
+		"SpawnAmmo"	"0"
+		"MaxAmmo"	"0"
+		"CustomGuns"	"1"
+	}
+	"weapon_sniper"
+	{
+		"model"		"models/weapons/w_c_sniper.mdl"
+		"ItemId"	"447"
+		"MaxClip1"	"10"
+		"MaxClip2"	"0"
+		"SpawnAmmo"	"20"
+		"MaxAmmo"	"35"
+		"CustomGuns"	"1"
+	}
+	"weapon_superplasmagun"
+	{
+		"model"		"models/jaanus/atgun.mdl"
+		"ItemId"	"448"
+		"MaxClip1"	"24"
+		"MaxClip2"	"0"
+		"SpawnAmmo"	"20"
+		"MaxAmmo"	"35"
+		"CustomGuns"	"1"
+	}
+	//hl2dm Ammo:
+	"item_ammo_pistol_large"
+	{
+		"classname"		"weapon_pistol"
+		"SawnAmmo"		"150"
+		"Maxammo"		"250"
+	}
+
+	"weapon_frag"
+	{
+		"classname"		"weapon_frag"
+		"SawnAmmo"		"3"
+		"Maxammo"		"10"
+	}
+	"item_ammo_smg1_large"
+	{
+		"classname"		"weapon_smg1"
+		"SawnAmmo"		"200"
+		"Maxammo"		"500"
+	}
+	"item_box_buckshot"
+	{
+		"classname"		"weapon_shotgun"
+		"Ammo"			"30"
+		"Maxammo"		"60"
+	}
+	"item_ammo_crossbow"
+	{
+		"classname"		"weapon_crossbow"
+		"SawnAmmo"		"5"
+		"Maxammo"		"10"
+	}
+	"item_rpg_round"
+	{
+		"classname"		"weapon_rpg"
+		"SawnAmmo"		"3"
+		"Maxammo"		"10"
+	}
+	"item_ammo_ar2_large"
+	{
+		"classname"		"weapon_ar2"
+		"SawnAmmo"		"120"
+		"Maxammo"		"240"
+	}
+	"item_ammo_ar2_altfire"
+	{
+		"classname"		"weapon_ar2"
+		"SawnAmmo"		"2"
+		"Maxammo"		"6"
+	}
+	"item_ammo_357_large"
+	{
+		"classname"		"weapon_357"
+		"SawnAmmo"		"18"
+		"Maxammo"		"24"
+	}
+	"weapon_slam"
+	{
+		"classname"		"weapon_slam"
+		"SawnAmmo"		"5"
+		"Maxammo"		"10"
+	}
+
+	//hl2dm alpha prop list with ownership:
+	"Prop_Alpha"
+	{
+		//Weapon_ClassNames
+		"0"			"weapon_pistol"
+		"1"			"weapon_crowbar"
+		"2"			"weapon_stunstick"
+		"3"			"weapon_frag"
+		"4"			"weapon_smg1"
+		"5"			"weapon_shotgun"
+		"6"			"weapon_crossbow"
+		"7"			"weapon_rpg"
+		"8"			"weapon_ar2"
+		"9"			"weapon_357"
+		"10"			"weapon_slam"
+		"11"			"weapon_annabelle"
+		"12"			"weapon_alyxgun"
+		"13"			"weapon_ak47"
+		"14"			"weapon_anm14"
+		"15"			"weapon_fists"
+		"16"			"weapon_gauss"
+		"17"			"weapon_golden357"
+		"18"			"weapon_goldenstick"
+		"19"			"weapon_grabber"
+		"20"			"weapon_grenadelauncher"
+		"21"			"weapon_hands"
+		"22"			"weapon_healer"
+		"23"			"weapon_laser"
+		"24"			"weapon_minigun"
+		"25"			"weapon_mp5"
+		"26"			"weapon_molatov"
+		"27"			"weapon_oicw"
+		"28"			"weapon_plasmagun"
+		"29"			"weapon_pulsemg"
+		"30"			"weapon_shovel"
+		"31"			"weapon_sniper"
+		"32"			"weapon_superplasmagun"
+
+		"33"			"prop_Benzocaine"
+		"34"			"prop_Kitchen_Cocain"
+		"35"			"prop_Erythroxylum"
+
+		"36"			"prop_Bong"
+		"37"			"prop_Plant_Drug"
+		"38"			"prop_Drug_Seeds"
+		"39"			"prop_Drug_Lamp"
+
+		"40"			"prop_Battery"
+		"41"			"prop_BitCoin_Mine"
+		"42"			"prop_Generator"
+		"43"			"prop_Money_Printer"
+		"44"			"prop_Gun_Lab"
+
+		"45"			"prop_Acetone_Can"
+		"46"			"prop_HcAcid_Tub"
+		"47"			"prop_Kitchen_Meth"
+		"48"			"prop_Phosphoru_Tank"
+		"49"			"prop_Sodium_Tub"
+
+		"50"			"prop_Bomb"
+		"51"			"prop_Fire_Bomb"
+		"52"			"prop_Fire_Extinguisher"
+		"53"			"prop_Microwave"
+		"54"			"prop_Plasma_Bomb"
+		"55"			"prop_Propane_Tank"
+		"56"			"prop_Plant_Rice"
+		"57"			"prop_Shield"
+		"58"			"prop_Smoke_Bomb"
+		"59"			"prop_Water_Bomb"
+
+		"60"			"prop_Ammonia"
+		"61"			"prop_Kitchen_Pills"
+		"62"			"prop_SAcid_Tub"
+		"63"			"prop_Toulene"
+
+		"64"			"prop_physics"
+		"65"			"prop_physics_override"
+
+		"66"			"prop_Find_Bomb"
+		"67"			"prop_PD_Bomb"
+	}
+	"Prop_GunShop"
+	{
+		//Weapon_Models
+		"0"		"models/weapons/w_crowbar.mdl"
+		"1"		"models/weapons/w_stunbaton.mdl"
+		"2"		"models/weapons/w_grenade.mdl"
+		"3"		"models/weapons/w_smg1.mdl"
+		"4"		"models/weapons/w_shotgun.mdl"
+		"5"		"models/weapons/w_crossbow.mdl"
+		"6"		"models/weapons/w_rocket_launcher.mdl"
+		"7"		"models/weapons/w_irifle.mdl"
+		"8"		"models/weapons/w_357.mdl"
+		"9"		"models/weapons/w_annabelle.mdl"
+		"10"		"models/weapons/w_alyx_gun.mdl"
+		"11"		"models/weapons/w_rif_ak47.mdl"
+		"12"		"models/weapons/w_anm14.mdl"
+		"13"		"models/weapons/w_gauss.mdl"
+		"14"		"models/weapons/wg357.mdl"
+		"15"		"models/weapons/w_godronstick.mdl"
+		"16"		"models/weapons/w_a35.mdl"
+		"17"		"models/items/healthkit.mdl"
+		"18"		"models/weapons/w_Laser.mdl"
+		"19"		"models/weapons/w_minigun.mdl"
+		"20"		"models/weapons/w_mp5.mdl"
+		"21"		"models/weapons/w_oicw.mdl"
+		"22"		"models/weapons/w_ion.mdl"
+		"23"		"models/weapons/w_pulsemg.mdl"
+		"24"		"models/weapons/w_shovel.mdl"
+		"25"		"models/weapons/w_c_sniper.mdl"
+		"26"		"models/jaanus/atgun.mdl"
+	}
+}
